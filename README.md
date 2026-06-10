@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Caleb Kilgo 👋</h1>
 
 <h3 align="center">
@@ -109,4 +108,3 @@ Projects focused on applied machine learning, data analysis, information retriev
 <p align="center">
   <i>Building useful software at the intersection of AI, data, and engineering.</i>
 </p>
-```
