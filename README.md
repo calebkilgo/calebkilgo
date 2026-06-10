@@ -35,7 +35,16 @@ I currently work as an undergraduate data science research assistant in the Inte
 
 A local AI assistant designed to answer questions over technical manuals using text, images, tables, and voice input. The system uses structure-aware document ingestion, dual FAISS indexes, image re-ranking, and a Streamlit interface.
 
-**Tech used:** Python, Streamlit, FAISS, PyMuPDF, SigLIP2, CLIP, Whisper, Ollama, local LLMs
+**Built with:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="38" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="PyTorch" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="Docker" title="Docker" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="38" alt="Streamlit" title="Streamlit" />
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="38" alt="Ollama" title="Ollama" />
+  <img src="https://cdn.simpleicons.org/meta/0467DF" height="38" alt="FAISS" title="FAISS" />
+</p>
 
 ---
 
@@ -43,7 +52,16 @@ A local AI assistant designed to answer questions over technical manuals using t
 
 A real-time satellite tracking web app that visualizes satellite constellations on a 3D Cesium globe. The project uses live TLE data from CelesTrak and a custom C++17 SGP4/SDP4 orbital propagator compiled to WebAssembly for fast in-browser position calculations. It includes satellite group toggles, camera tracking, orbital ground tracks, and a draggable stats panel showing live latitude, longitude, altitude, and speed.
 
-**Tech used:** React, Vite, CesiumJS, Resium, C++17, WebAssembly, Emscripten, FastAPI, Python, CelesTrak
+**Built with:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=wasm" height="35" alt="WebAssembly" />
+  <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI" />
+</p>
 
 ---
 
