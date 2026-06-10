@@ -29,11 +29,9 @@ I currently work as an undergraduate data science research assistant in the Inte
 
 ---
 
-## Featured Projects
+### [SMART Assistant — Offline Multimodal RAG System](https://github.com/Sam-code00/RAG_auto)
 
-### SMART Assistant — Offline Multimodal RAG System
-
-A local AI assistant designed to answer questions over technical manuals using text, images, tables, and voice input. The system uses structure-aware document ingestion, dual FAISS indexes, image re-ranking, and a Streamlit interface.
+A local AI assistant designed to answer questions over technical manuals using text, images, tables, and voice input through Whisper. The system uses structure-aware document ingestion, dual FAISS indexes, image re-ranking, and a Streamlit interface.
 
 **Built with:**
 
@@ -48,19 +46,19 @@ A local AI assistant designed to answer questions over technical manuals using t
 
 ---
 
-### Satellite Tracker
+### [Satellite Tracker](https://github.com/calebkilgo/satellite-tracker)
 
 A real-time satellite tracking web app that visualizes satellite constellations on a 3D Cesium globe. The project uses live TLE data from CelesTrak and a custom C++17 SGP4/SDP4 orbital propagator compiled to WebAssembly for fast in-browser position calculations. It includes satellite group toggles, camera tracking, orbital ground tracks, and a draggable stats panel showing live latitude, longitude, altitude, and speed.
 
 **Built with:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=wasm" height="35" alt="WebAssembly" />
-  <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=react" height="38" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=vite" height="38" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="38" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=wasm" height="38" alt="WebAssembly" title="WebAssembly" />
+  <img src="https://skillicons.dev/icons?i=python" height="38" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="38" alt="FastAPI" title="FastAPI" />
 </p>
 
 ---
