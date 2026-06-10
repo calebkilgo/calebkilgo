@@ -45,14 +45,6 @@ A real-time satellite tracking web app that visualizes satellite constellations 
 
 ---
 
-### AI + Data Science Projects
-
-Projects focused on applied machine learning, data analysis, information retrieval, and visualization. I enjoy building tools that turn messy technical data into something searchable, explainable, and useful.
-
-**Areas of interest:** machine learning, data science, graph databases, software engineering, AI assistants, and retrieval systems
-
----
-
 ## Tech Stack
 
 ### Programming Languages
