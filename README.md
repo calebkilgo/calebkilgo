@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Caleb Kilgo 👋</h1>
+<p align="center">
+  <img src="./assets/CALEB KILGO.png" alt="Caleb Kilgo" width="100%" />
+</p>
 
 <h3 align="center">
   Computer Science Student | Data Science Focus | AI + Software Engineering
@@ -21,7 +23,7 @@ I currently work as an undergraduate data science research assistant in the Inte
 
 - Studying **Computer Science** at **UAH**
 - Focused on **Data Science, AI, and Software Engineering**
-- Researching **RAG, GraphRAG, knowledge graphs, and requirement traceability**
+- Researching **RAG systems, requirement traceability, and technical document search**
 - Interested in **defense, aerospace, modeling & simulation, and applied AI**
 - Building practical tools with **Python, Streamlit, FAISS, Chroma, Neo4j, and local LLMs**
 
@@ -100,3 +102,4 @@ A real-time satellite tracking web app that visualizes satellite constellations 
 <p align="center">
   <i>Building useful software at the intersection of AI, data, and engineering.</i>
 </p>
+
