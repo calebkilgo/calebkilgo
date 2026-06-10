@@ -9,7 +9,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+at+UAH;Undergraduate+Data+Science+Research+Assistant;Building+AI,+RAG,+and+Knowledge+Graph+Tools;Interested+in+Defense,+Aerospace,+and+Software+Engineering&font=Fira%20Code&center=true&width=760&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+at+UAH;Undergraduate+Data+Science+Research+Assistant;Building+AI,+RAG,+and+Knowledge+Graph+Tools;Interested+in+Defense,+Aerospace,+and+Software+Engineering&font=Fira%20Code&center=true&width=760&height=45&color=000000&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
