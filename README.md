@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/CALEB KILGO.png" alt="Caleb Kilgo" width="100%" />
+  <img src="./assets/CALEB KILGO (1).png" alt="Caleb Kilgo" width="100%" />
 </p>
 
 <h3 align="center">
